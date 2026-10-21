@@ -22,7 +22,7 @@
 | 프로젝트 | 내용 | 링크 |
 | --- | --- | --- |
 | **ProjectFS** | 백룸풍 1:3 비대칭 서바이벌 PvP · 5인 팀 프로그래머 · FishNet 서버 판정 탈출 시스템, TargetRpc 생존자 추적, 시드 동기화 절차적 2D 맵 → 3D 모듈러 베이크, URP Render Graph 후처리 · 초기 기획의 몬스터 AI(모듈형 FSM, 데이터 기반 전이) | [멀티·2D 맵](https://github.com/Youngdu-Min/ProjectFS-Multiplayer-2DMap) · [3D 맵](https://github.com/Youngdu-Min/ProjectFS-3DMap-Rendering) · [몬스터 AI](https://github.com/Youngdu-Min/ProjectFS-MonsterAI) · [AI 영상](https://www.youtube.com/watch?v=VQ4SnIiiFDk) |
-| **Hollow: Cook Off** | 2D 액션 사이드 슈터 · 7인 팀 프로그래밍 전반 담당 · Corgi Engine AI 확장(일반 몬스터 9종·보스 5종), 탄환 패링·그래플링 건, Steam 출시 | [Steam](https://store.steampowered.com/app/2640380/Hollow_Cook_Off/) · [코드](https://github.com/Youngdu-Min/Hollow-CookOff-Codes) · [시연](https://www.youtube.com/watch?v=kKaZNlRhWig) |
+| **Hollow: Cook Off** | 2D 액션 사이드 슈터 · 7인 팀 프로그래밍 전반 담당 · Corgi Engine AI 확장(일반 몬스터 9종·보스 5종), 탄환 패링·그래플링 건, Steam 출시 | [Steam](https://store.steampowered.com/app/2640380/Hollow_Cook_Off/) · [코드](https://github.com/Youngdu-Min/Hollow-CookOff-Codes) |
 | **Unit System for Unity** | ScriptableObject 프리셋 기반 FSM, 부위별 피격, 보스 페이즈, Animator 없는 애니메이션 컨트롤러를 모듈화한 재사용 유닛 시스템 | [코드](https://github.com/Youngdu-Min/Unit-System-for-Unity) · [영상](https://www.youtube.com/watch?v=cX2HVszDxR0) |
 | **Karma Defence** | 디펜스 · 5인 팀 프로그래밍 단독 담당 · 다종 유닛 오브젝트 풀링(2배 동적 확장), 기획자용 커스텀 에디터 | [코드](https://github.com/Youngdu-Min/Karma-Defence-Codes) · [영상](https://www.youtube.com/watch?v=o5AaV3zBt2k) |
 | **Keyboard Invader** | 키마다 다른 탄환의 2D 슈팅 · 3인 팀 리드 프로그래머 · SBCF 2021 우수상 | [플레이](https://d3faulterr.itch.io/keyboard-invader) · [영상](https://www.youtube.com/watch?v=ILCx5ZQ3Xlk) |
