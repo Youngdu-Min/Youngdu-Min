@@ -22,7 +22,7 @@
 | 프로젝트 | 내용 | 링크 |
 | --- | --- | --- |
 | **Asymmetric PvP** | 백룸풍 1:3 비대칭 서바이벌 PvP · 5인 팀 프로그래머 · FishNet 서버 판정 탈출 시스템, TargetRpc 생존자 추적, 시드 동기화 절차적 2D 맵 | [코드](https://github.com/Youngdu-Min/Asymmetric-PvP-FishNet) |
-| **Procedural 3D Map Baker** | 2D 그리드를 3D 모듈러 프리팹 맵으로 베이크 · 호스트/클라이언트 결정적 배치, Union-Find 연결성 보장, URP Render Graph 합성곱 필터 | [코드](https://github.com/Youngdu-Min/Procedural-3D-Map-Baker) |
+| **Procedural 3D Map Baker** | 2D 그리드를 3D 모듈러 프리팹 맵으로 베이크 · 호스트/클라이언트 결정적 배치, Union-Find 연결성 보장, URP Render Graph 합성곱 필터 | [코드](https://github.com/Youngdu-Min/Procedural-3D-Map-Baker) · [영상](https://www.youtube.com/watch?v=0ACLtyFWc5w) |
 | **Data-Driven Monster AI** | 비살상 제압 탑다운 게임의 몬스터 AI · 모듈형 FSM, 인스펙터에서 정의하는 데이터 기반 전이 규칙, A\* 경로 탐색 | [코드](https://github.com/Youngdu-Min/Data-Driven-Monster-AI) · [영상](https://www.youtube.com/watch?v=VQ4SnIiiFDk) |
 | **Hollow: Cook Off** | 2D 액션 사이드 슈터 · 7인 팀 프로그래밍 전반 담당 · Corgi Engine AI 확장(일반 몬스터 9종·보스 5종), 탄환 패링·그래플링 건, Steam 출시 | [Steam](https://store.steampowered.com/app/2640380/Hollow_Cook_Off/) · [코드](https://github.com/Youngdu-Min/Hollow-CookOff-Codes) |
 | **Unit System for Unity** | ScriptableObject 프리셋 기반 FSM, 부위별 피격, 보스 페이즈, Animator 없는 애니메이션 컨트롤러를 모듈화한 재사용 유닛 시스템 | [코드](https://github.com/Youngdu-Min/Unit-System-for-Unity) · [영상](https://www.youtube.com/watch?v=cX2HVszDxR0) |
