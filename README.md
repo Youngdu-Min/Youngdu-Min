@@ -3,9 +3,9 @@
 
 ### Unity 게임 클라이언트 프로그래머 민영두입니다
 
-3년 경력의 Unity 클라이언트 프로그래머입니다. 그중 약 2년간 교육 앱 "똑똑! 수학탐험대"를 iOS·Android·WebGL로 라이브 운영하며 최적화와 배포를 맡았고, 사이드 프로젝트로 Steam 게임을 출시했습니다.
+3년 경력의 Unity 클라이언트 프로그래머입니다. 교육 앱 "똑똑! 수학탐험대"의 대형 업데이트에서 팀원들이 파생해 쓰는 콘텐츠 코어를 설계했고, 빌드 용량을 약 70% 줄였습니다. 사이드 프로젝트로 Steam 게임을 출시했습니다.
 
-*Unity client programmer with 3 years of experience, including about 2 years running a live education app on iOS, Android and WebGL, and a shipped Steam title.*
+*Unity client programmer with 3 years of experience. On "ToctocMath," used by about 6,900 schools, I designed the core/base scripts the team built its content on during major updates and cut build size by ~70%. I also shipped a Steam title as lead programmer of a 7-person team and now build multiplayer games on a 5-person indie team.*
 
 - 🏆 2025 한국품질만족도 1위(초등수학 부문) 수상 서비스 개발 참여 · SBCF 2021 게임 부문 우수상
 - 📦 전 플랫폼 빌드 용량 1GB 이상 → 350MB 이하(약 70%) 절감
@@ -14,6 +14,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-6994CD?style=flat-square&logo=githubpages&logoColor=white)](https://youngdu-min.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youngdu-min-985795187/)
 [![Email](https://img.shields.io/badge/dudenx02@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dudenx02@gmail.com)
+
+📝 [교육 앱 콘텐츠 75% 이상을 하나의 코어로 옮긴 설계 과정](https://youngdu-min.github.io/problem-solving.html#core)
 
 ---
 
